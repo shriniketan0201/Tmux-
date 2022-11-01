@@ -1,5 +1,4 @@
 # Tmux-
-
 tmux 
 tmux list-sessions
 tmux a -t 0  //for session 0
